@@ -12,7 +12,7 @@ Collection of React Hooks ready to install with NPM
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [ ] useTabs
+- [x] useTabs
 - [ ] usePreventLeave
 - [ ] useConfirm
 - [ ] useAxios
