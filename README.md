@@ -3,6 +3,7 @@
 Collection of React Hooks ready to install with NPM
 
 - [x] useInput
+- [x] useTabs
 - [ ] useTitle
 - [ ] usePageLeave
 - [ ] useClick
@@ -12,7 +13,6 @@ Collection of React Hooks ready to install with NPM
 - [ ] useNetwork
 - [ ] useNotification
 - [ ] useScroll
-- [x] useTabs
 - [ ] usePreventLeave
 - [ ] useConfirm
 - [ ] useAxios
