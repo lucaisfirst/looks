@@ -1,13 +1,18 @@
-export const useFullscreen = () => {
+export const useFullscreen = (callback) => {
   const element = useRef();
   const triggerFull = () => {
     if (element.current) {
       element.current.requestFullscreen();
+      if (callback && typeof callback === "function") {
+        callback(true);
+      }
     }
   };
   const exitFull = () => {
     document.exitFullscreen();
+    if (callback && typeof callback === "function") {
+      callback(false);
   };
   return { element, triggerFull, exitFull };
 };
-//여기에서 callback함수 이용해서 만드는 거 하나 해야 된다.
+//callback 함수 받아서 만든 모델 여기에 모든 브라우저에서 호환되게 조건 걸어야 됨.
