@@ -17,5 +17,4 @@ export const useNotification = (title, options) => {
   };
   return fireNotif;
 };
-
 //useNotification 함수형 프로그램을 이용해서 한다.
