@@ -10,16 +10,16 @@
   },
   "keywords": [
     "react",
-    "title",
-    "hooks"
+    "hooks",
+    "title"
   ],
   "author": "Luca",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucaisfirst/lucahooks.gitissues"
+    "url": "https://github.com/lucaisfirst/lucahooks/issues"
   },
-  "homepage": "https://github.com/lucaisfirst/lucahooks.git#readme",
-  "peerDependencies": {
+  "homepage": "https://github.com/lucaisfirst/lucahooks#readme",
+  "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
