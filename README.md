@@ -18,4 +18,4 @@ Collection of React Hooks ready to install with NPM
 - [x] useScroll
 - [x] useFullscreen
 - [x] useNotification
-- [ ] useAxios
+- [x] useAxios
