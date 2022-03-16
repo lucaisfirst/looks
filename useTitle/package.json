@@ -6,7 +6,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucaisfirst/react_hooks.git"
+    "url": "git+https://github.com/lucaisfirst/lucahooks.git"
   },
   "keywords": [
     "react",
@@ -16,9 +16,9 @@
   "author": "Luca",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lucaisfirst/react_hooks/issues"
+    "url": "https://github.com/lucaisfirst/lucahooks.gitissues"
   },
-  "homepage": "https://github.com/lucaisfirst/react_hooks#readme",
+  "homepage": "https://github.com/lucaisfirst/lucahooks.git#readme",
   "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
