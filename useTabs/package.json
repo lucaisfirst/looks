@@ -1,0 +1,25 @@
+{
+  "name": "luca_hooks",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaisfirst/luca_hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "tabs",
+    "luca"
+  ],
+  "author": "Luca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucaisfirst/luca_hooks/issues"
+  },
+  "homepage": "https://github.com/lucaisfirst/luca_hooks#readme"
+}
